@@ -1,5 +1,0 @@
-package br.com.caelum.estoque.modelo.usuario;
-
-public class AutorizacaoException extends Exception {
-
-}

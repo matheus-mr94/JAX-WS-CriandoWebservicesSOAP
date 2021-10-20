@@ -1,2 +1,0 @@
-INDEX VERSION 1.4+D:\Users\Trabalho\Documents\CursoJaxWS\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-943291732.index
