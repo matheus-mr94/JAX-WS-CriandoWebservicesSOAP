@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="javax.jws.WebService"/>
+    <fullyQualifiedTypeName name="javax.xml.ws.Endpoint"/>
+    <fullyQualifiedTypeName name="javax.jws.WebMethod"/>
+    <fullyQualifiedTypeName name="javax.jws.WebResult"/>
+    <fullyQualifiedTypeName name="br.com.caelum.estoque.modelo.item.ListaItens"/>
+    <fullyQualifiedTypeName name="javax.xml.bind.annotation.XmlAccessorType"/>
+    <fullyQualifiedTypeName name="javax.xml.bind.annotation.XmlRootElement"/>
+    <fullyQualifiedTypeName name="javax.xml.ws.ResponseWrapper"/>
+    <fullyQualifiedTypeName name="javax.jws.WebParam"/>
+    <fullyQualifiedTypeName name="javax.xml.ws.WebFault"/>
+    <fullyQualifiedTypeName name="br.com.caelum.estoque.modelo.item.ItemValidador"/>
+    <fullyQualifiedTypeName name="javax.xml.bind.annotation.XmlElement"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="javax.xml.bind.annotation.adapters.XmlAdapter"/>
+</qualifiedTypeNameHistroy>
